@@ -1,0 +1,15 @@
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\bin\Debug\WPF_Zoo.exe.config
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\bin\Debug\WPF_Zoo.exe
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\bin\Debug\WPF_Zoo.pdb
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo.csprojAssemblyReference.cache
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\MainWindow.g.cs
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\App.g.cs
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo_MarkupCompile.cache
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo_MarkupCompile.lref
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\MainWindow.baml
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo.g.resources
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo.Properties.Resources.resources
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo.csproj.GenerateResource.cache
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo.exe
+C:\Users\mehdi\Documents\Visual Studio 2017\Projects\WPF_Zoo\WPF_Zoo\obj\Debug\WPF_Zoo.pdb
