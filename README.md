@@ -14,5 +14,5 @@ or create your own database and copy and paste the code
 
 Picture of App:
 
-[Picture]: https://github.com/Mehdiad/WPF_Zoo "Zoo Application"
+[Picture]: https://github.com/Mehdiad/WPF_Zoo/ApplicationPicture.PNG "Zoo Application"
 
