@@ -11,3 +11,8 @@ properties/settings.designer.cs
 properties/settings.settings
 
 or create your own database and copy and paste the code
+
+Picture of App:
+
+[Picture]: https://github.com/Mehdiad/WPF_Zoo "Zoo Application"
+
